@@ -1,0 +1,74 @@
+[
+  {
+    "model": "digestapi.book",
+    "pk": 1,
+    "fields": {
+      "title": "For Whom the Bell Tolls",
+      "author": "Ralph Waldo Emerson ",
+      "isbn_number": "0684803356",
+      "cover_image": "https://m.media-amazon.com/images/I/71tC6Us5sLL._SY466_.jpg",
+      "user_id": 1,
+      "categories": []
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 2,
+    "fields": {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn_number": "0061120081",
+      "cover_image": "https://m.media-amazon.com/images/I/51UHsUARuEL.jpg",
+      "user_id": 1,
+      "categories": []
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 3,
+    "fields": {
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn_number": "0451524934",
+      "cover_image": "https://m.media-amazon.com/images/I/51w1w0gRgAL.jpg",
+      "user_id": 2,
+      "categories": []
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 4,
+    "fields": {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn_number": "0316769487",
+      "cover_image": "https://m.media-amazon.com/images/I/51P70VdQD3L.jpg",
+      "user_id": 2,
+      "categories": []
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 5,
+    "fields": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "isbn_number": "0141439513",
+      "cover_image": "https://m.media-amazon.com/images/I/51jmWhkYorL.jpg",
+      "user_id": 3,
+      "categories": []
+    }
+  },
+  {
+    "model": "digestapi.book",
+    "pk": 6,
+    "fields": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "isbn_number": "0743273567",
+      "cover_image": "https://m.media-amazon.com/images/I/51eCqOOOd1L.jpg",
+      "user_id": 3,
+      "categories": []
+    }
+  }
+]
